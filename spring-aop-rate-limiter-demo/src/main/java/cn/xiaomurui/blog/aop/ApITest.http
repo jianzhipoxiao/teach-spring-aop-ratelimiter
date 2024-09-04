@@ -1,0 +1,2 @@
+### 查询用户
+GET http://localhost:8080/aop/query_user?userId=xmr
